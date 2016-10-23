@@ -1,0 +1,33 @@
+{
+  "name": "authentication-react-stormpath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "farisbrni",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.17.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-react-transform": "^2.0.2",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-runtime": "^6.11.6",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-stormpath": "^3.1.5",
+    "react": "^15.3.2",
+    "react-document-title": "^2.0.2",
+    "react-dom": "^15.3.2",
+    "react-router": "^2.8.1",
+    "react-stormpath": "^1.3.1",
+    "webpack": "^1.13.2"
+  },
+  "devDependencies": {
+    "webpack-dev-middleware": "^1.8.4"
+  }
+}
